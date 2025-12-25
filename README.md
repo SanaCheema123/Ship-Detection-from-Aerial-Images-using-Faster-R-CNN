@@ -70,7 +70,7 @@ Key Highlights:
 
 > **Note:** COCO mAP returned `-1.0000` due to category mismatch or evaluation threshold conflict; fixing category-ID mapping typically resolves this.
 
-![Train Loss Curve](outputs/train_loss.png)
+![Train Loss Curve](plot.png)
 
 
 ![Prediction 1](outputs/pred1.png)
