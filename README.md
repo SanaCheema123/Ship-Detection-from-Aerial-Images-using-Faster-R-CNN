@@ -73,9 +73,8 @@ Key Highlights:
 ![Train Loss Curve](plot.png)
 
 
-![Prediction 1](outputs/pred1.png)
-![Prediction 2](outputs/pred2.png)
-![Prediction 3](outputs/pred3.png)
+![Prediction 1](Sheep.png)
+![Prediction 2](Sheep_Detection.png)
 
 
 🤝 Collaboration & Opportunities
