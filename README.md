@@ -74,7 +74,7 @@ Key Highlights:
 
 
 ![Prediction 1](Sheep.png)
-![Prediction 2](Sheep_Detection.png)
+![Prediction 2](sheep_Detction.png)
 
 
 🤝 Collaboration & Opportunities
